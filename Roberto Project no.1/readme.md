@@ -2,7 +2,7 @@
 
 # john bryce 7731/5 project no.1
 
-submited by: Roberto Raicu Meer
+submited by: Roberto Raicu
 
 > ### **this is a simple sorting system meant for the staff₁ of a public library which allows you to manage the entirety of the system**
 >
@@ -74,6 +74,6 @@ submited by: Roberto Raicu Meer
 
 &nbsp;
 
-> Raicu Meer Roberto  
-> RobertoMeer@gmail.com  
+> Raicu Roberto  
+> RobertoMeer123@gmail.com  
 > john bryce 7731/5
